@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rhare86/jest-another-RPG2#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
